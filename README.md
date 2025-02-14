@@ -9,3 +9,4 @@ Key Components:
 📊 DCF Model (Excel): Built from scratch using Meta’s historical financial data, this model calculates free cash flows, determines the enterprise and equity value, and derives an implied share price. Sensitivity analysis is included to test the impact of key assumptions.
 
 This project showcases my ability to conduct fundamental investment analysis, build financial models, and apply valuation techniques to real-world companies.
+<img src="https://t.bkit.co/w_67af500abc475.gif" />
